@@ -36,6 +36,6 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.11',
     ],
-    keywords='automation, jackson, scraping, selenium',
+    keywords='automation, scraping, selenium, pyportfolioopt, ffn, bt',
     python_requires='>=3.11',
 )
