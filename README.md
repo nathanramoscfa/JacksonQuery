@@ -4,7 +4,7 @@ JacksonQuery is a Python package designed to automate the process of downloading
 from the Jackson National Life (JNL) Insurance website located at www.jackson.com. Its main objective is to facilitate 
 investment advisers in making informed decisions about variable annuity subaccount investments.
 
-This package finds, downloads, and parses all content of all variable annuity subaccount prospectuses and Morningstar 
+This package finds, downloads, and parses content of all the variable annuity subaccount prospectuses and Morningstar 
 reports found on the JNL website. The parsed content is processed into data structures, enabling easy and efficient data 
 analysis. Additionally, JacksonQuery provides a factor model and a portfolio optimization module, automating the 
 investment selection and portfolio construction process.
@@ -33,10 +33,13 @@ pip install jacksonquery
 ```
 
 ## Usage
-See the [examples]
+See the [examples](https://github.com/nathanramoscfa/JacksonQuery/tree/master/examples) directory for usage examples.
 
 ## Disclaimer
 JacksonQuery is not affiliated with Jackson National Life Insurance Company in any way. This package is not intended to
 be used for any purpose other than for educational purposes. Past performance is not indicative of future results. The 
 authors of this package are not responsible for any financial losses that may occur as a result of using this package. 
 Use at your own risk. 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
