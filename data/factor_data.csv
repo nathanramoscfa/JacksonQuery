@@ -1,0 +1,116 @@
+Subaccount Name,Morningstar Category,Fund Expense Fee%,Manager Tenure (Years),Portfolio Turnover%
+JNL_American_Funds_Balanced,Moderate Allocation,0.91,4.9,43.4
+JNL_American_Funds_Bond_Fund_of_America,Intermediate Core Bond,0.82,2.13,82.0
+JNL_American_Funds_Capital_Income_Builder,Global Allocation,0.95,3.08,60.8
+JNL_American_Funds_Capital_World_Bond,Global Bond,1.04,2.18,90.8
+JNL_American_Funds_Global_Growth,Global Large-Stock Growth,1.06,6.27,20.6
+JNL_American_Funds_Global_Small_Capitalization,Global Small/Mid Stock,1.25,5.93,40.0
+JNL_American_Funds_Growth,Large Growth,0.9,5.49,28.4
+JNL_American_Funds_Growth_Income,Large Blend,0.91,7.81,29.6
+JNL_American_Funds_International,Foreign Large Growth,1.17,8.13,37.4
+JNL_American_Funds_New_World,Diversified Emerging Mkts,1.26,4.05,49.8
+JNL_American_Funds_Washington_Mutual_Investors,Large Value,0.91,2.01,49.2
+JNL_Mellon_Bond_Index,Intermediate Core Bond,0.56,8.38,72.6
+JNL_Mellon_Emerging_Markets_Index,Diversified Emerging Mkts,0.74,2.63,12.4
+JNL_Mellon_International_Index,Foreign Large Blend,0.62,2.63,3.4
+JNL_Mellon_S&P_400_MidCap_Index,Mid-Cap Blend,0.56,2.63,17.2
+JNL_Mellon_Small_Cap_Index,Small Blend,0.56,2.63,26.4
+JNL_Aggressive_Growth_Allocation,Aggressive Allocation,1.18,7.48,22.2
+JNL_Conservative_Allocation,Conservative Allocation,1.15,6.38,32.2
+JNL_Growth_Allocation,Moderately Aggressive Allocation,1.17,7.48,21.0
+JNL_Moderate_Allocation,Moderately Conservative Allocation,1.15,6.38,21.6
+JNL_Moderate_Growth_Allocation,Moderate Allocation,1.17,7.48,21.2
+JNL_American_Funds_Growth_Allocation,Moderately Aggressive Allocation,1.0,7.48,22.2
+JNL_American_Funds_Moderate_Growth_Allocation,Moderate Allocation,0.98,7.48,29.8
+JNL_Goldman_Sachs_Managed_Aggressive_Growth,Aggressive Allocation,1.11,0.6,14.0
+JNL_Goldman_Sachs_Managed_Conservative,Conservative Allocation,1.04,0.6,19.4
+JNL_Goldman_Sachs_Managed_Growth,Moderately Aggressive Allocation,1.09,0.6,15.4
+JNL_Goldman_Sachs_Managed_Moderate,Moderately Conservative Allocation,1.05,0.6,15.4
+JNL_Goldman_Sachs_Managed_Moderate_Growth,Moderate Allocation,1.06,0.6,15.0
+JNL_iShares_Tactical_Growth,Moderately Aggressive Allocation,0.82,4.29,41.8
+JNL_iShares_Tactical_Moderate,Moderately Conservative Allocation,0.79,4.29,48.0
+JNL_iShares_Tactical_Moderate_Growth,Moderate Allocation,0.81,4.29,40.4
+JNL_Vanguard_Growth_ETF_Allocation,Moderately Aggressive Allocation,0.69,3.49,11.6
+JNL_Vanguard_Moderate_ETF_Allocation,Moderately Conservative Allocation,0.7,3.49,20.4
+JNL_Vanguard_Moderate_Growth_ETF_Allocation,Moderate Allocation,0.7,3.49,13.6
+JNL_Multi_Manager_Alternative,Multistrategy,2.19,6.4,145.8
+JNL_Multi_Manager_Emerging_Markets_Equity,Diversified Emerging Mkts,1.22,3.13,47.4
+JNL_Multi_Manager_International_Small_Cap,Foreign Small/Mid Growth,1.21,3.54,68.6
+JNL_Multi_Manager_Mid_Cap,Mid-Cap Blend,1.08,4.61,44.2
+JNL_Multi_Manager_Small_Cap_Growth,Small Growth,0.97,4.64,76.8
+JNL_Multi_Manager_Small_Cap_Value,Small Blend,1.09,6.05,54.6
+JNL_AQR_Large_Cap_Defensive_Style,Large Blend,0.86,2.67,46.5
+JNL_Baillie_Gifford_International_Growth,Foreign Large Growth,0.98,2.13,22.6
+JNL_BlackRock_Global_Allocation,Global Allocation,1.07,5.63,155.8
+JNL_BlackRock_Large_Cap_Select_Growth,Large Growth,0.84,2.09,47.8
+JNL_Causeway_International_Value_Select,Foreign Large Value,0.97,6.63,47.4
+JNL_ClearBridge_Large_Cap_Growth,Large Growth,0.95,5.71,19.2
+JNL_DFA_International_Core_Equity,Foreign Large Blend,0.9,3.96,41.25
+JNL_DFA_US_Core_Equity,Large Blend,0.8,4.46,8.0
+JNL_DFA_US_Small_Cap,Small Blend,0.98,7.24,30.0
+JNL_DoubleLine_Core_Fixed_Income,Intermediate Core-Plus Bond,0.78,5.71,110.6
+JNL_DoubleLine_Emerging_Markets_Fixed_Income,Emerging Markets Bond,1.07,7.13,43.0
+JNL_DoubleLine_Shiller_Enhanced_CAPE,Large Value,1.01,7.71,74.2
+JNL_DoubleLine_Total_Return,Intermediate Core-Plus Bond,0.82,5.43,52.6
+JNL_Fidelity_Institutional_Asset_Management_Total_Bond,Intermediate Core-Plus Bond,0.81,3.41,188.0
+JNL_First_Sentier_Global_Infrastructure,Infrastructure,1.15,3.82,76.6
+JNL_Franklin_Templeton_Income,Moderate Allocation,0.93,8.35,46.8
+JNL_Goldman_Sachs_4,Large Value,0.69,1.33,31.6
+JNL_GQG_Emerging_Markets_Equity,Diversified Emerging Mkts,1.37,3.43,107.0
+JNL_Harris_Oakmark_Global_Equity,Global Large-Stock Value,1.14,3.59,35.2
+JNL_Heitman_US_Focused_Real_Estate,Real Estate,1.1,2.13,163.0
+JNL_Invesco_Diversified_Dividend,Large Value,0.99,3.02,24.6
+JNL_Invesco_Global_Growth,Global Large-Stock Growth,0.95,6.13,11.8
+JNL_Invesco_Small_Cap_Growth,Small Growth,1.06,12.29,38.8
+JNL_JPMorgan_Global_Allocation,Global Allocation,1.07,2.88,117.0
+JNL_JPMorgan_Hedged_Equity,Options Trading,0.96,4.79,41.4
+JNL_JPMorgan_MidCap_Growth,Mid-Cap Growth,0.89,8.07,49.2
+JNL_JPMorgan_US_Government_&_Quality_Bond,Intermediate Government,0.7,12.88,18.8
+JNL_JPMorgan_US_Value,Large Value,0.89,3.13,31.4
+JNL_Lazard_International_Strategic_Equity,Foreign Large Blend,1.11,7.92,38.0
+JNL_Loomis_Sayles_Global_Growth,Global Large-Stock Growth,1.0,4.79,18.2
+JNL_Lord_Abbett_Short_Duration_Income,Short-Term Bond,0.8,2.27,92.3333
+JNL_Mellon_Communication_Services_Sector,Communications,0.66,2.63,42.0
+JNL_Mellon_Consumer_Discretionary_Sector,Consumer Cyclical,0.64,2.63,17.8
+JNL_Mellon_Consumer_Staples_Sector,Consumer Defensive,0.65,2.63,31.4
+JNL_Mellon_DowSM_Index,Large Value,0.65,2.63,9.0
+JNL_Mellon_Energy_Sector,Equity Energy,0.64,2.63,17.2
+JNL_Mellon_Financial_Sector,Financial,0.64,2.63,12.2
+JNL_Mellon_Healthcare_Sector,Health,0.63,2.63,7.4
+JNL_Mellon_Industrials_Sector,Industrials,0.66,2.63,56.4
+JNL_Mellon_Information_Technology_Sector,Technology,0.62,2.63,15.2
+JNL_Mellon_Nasdaq_100_Index,Large Growth,0.65,2.63,10.4
+JNL_Mellon_Real_Estate_Sector,Real Estate,0.66,2.63,39.0
+JNL_Mellon_S&P_500_Index,Large Blend,0.52,2.63,4.2
+JNL_Mellon_US_Stock_Market_Index,Large Blend,0.6,2.13,18.4
+JNL_Mellon_Utilities_Sector,Utilities,0.65,2.63,25.4
+JNL_Mellon_World_Index,Global Large-Stock Blend,0.65,2.63,3.8
+JNL_MFS_Mid_Cap_Value,Mid-Cap Value,0.95,4.74,28.0
+JNL_Morningstar_US_Sustainability_Index,Large Blend,0.71,2.63,26.4
+JNL_Morningstar_Wide_Moat_Index,Large Blend,0.76,2.63,63.4
+JNL_Neuberger_Berman_Strategic_Income,Multisector Bond,0.95,9.71,86.0
+JNL_Newton_Equity_Income,Large Value,0.91,11.21,75.0
+JNL_PIMCO_Income,Multisector Bond,0.94,5.4,393.4
+JNL_PIMCO_Investment_Grade_Credit_Bond,Corporate Bond,0.81,8.15,135.8
+JNL_PIMCO_Real_Return,Inflation-Protected Bond,0.95,3.92,150.0
+JNL_PPM_America_Floating_Rate_Income,Bank Loan,0.95,2.63,61.0
+JNL_PPM_America_High_Yield_Bond,High Yield Bond,0.75,4.71,63.0
+JNL_PPM_America_Total_Return,Intermediate Core-Plus Bond,0.78,7.75,84.0
+JNL_RAFI_Fundamental_US_Small_Cap,Small Value,0.67,2.63,71.8
+JNL_RAFI_Multi_Factor_US_Equity,Large Value,0.67,2.63,64.4
+JNL_T_Rowe_Price_Balanced,Moderate Allocation,0.99,4.79,146.2
+JNL_T_Rowe_Price_Capital_Appreciation,Moderate Allocation,0.98,9.71,67.2
+JNL_T_Rowe_Price_Established_Growth,Large Growth,0.83,8.88,32.2
+JNL_T_Rowe_Price_Mid_Cap_Growth,Mid-Cap Growth,0.99,27.88,23.0
+JNL_T_Rowe_Price_Short_Term_Bond,Short-Term Bond,0.71,8.38,70.6
+JNL_T_Rowe_Price_US_High_Yield,High Yield Bond,0.94,3.13,102.6
+JNL_T_Rowe_Price_Value,Large Value,0.88,0.38,136.4
+JNL_WCM_Focused_International_Equity,Foreign Large Growth,1.12,6.66,27.0
+JNL_Westchester_Capital_Event_Driven,Event Driven,1.59,7.21,301.4
+JNL_Western_Asset_Global_Multi_Sector_Bond,Nontraditional Bond,1.0,1.13,47.4
+JNL_William_Blair_International_Leaders,Foreign Large Growth,0.96,1.13,60.4
+JNL_WMC_Balanced,Moderate Allocation,0.72,4.29,75.8
+JNL_WMC_Equity_Income,Large Value,0.89,2.13,39.8
+JNL_WMC_Global_Real_Estate,Global Real Estate,1.03,2.13,101.8
+JNL_WMC_Government_Money_Market,Money Market-Taxable,0.56,4.44,0.0
+JNL_WMC_Value,Large Value,0.78,3.0,37.8
