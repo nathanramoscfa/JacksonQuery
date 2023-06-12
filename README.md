@@ -11,9 +11,10 @@ investment selection and portfolio construction process.
 
 The JNL website provides data on their variable annuity subaccounts only in the form of fund prospectuses and 
 Morningstar reports, all in PDF format. There are approximately 120 JNL variable annuity subaccounts for their 
-Perspective L product, and the task of going through all of this data is daunting for investment advisers. JacksonQuery 
-aims to minimize heuristics and maximize statistical methods in decision-making for investment advisers, making it 
-easier to choose the most appropriate subaccounts for their clients.
+Perspective L product, and the task of going through all of this data is daunting for investment advisers. Most 
+investment advisers will rely on heuristics (i.e. rules of thumb) to construct portfolios which can lead to suboptimal 
+portfolios. JacksonQuery aims to minimize heuristics and maximize statistical methods in decision-making for investment 
+advisers, making it easier to choose the most appropriate subaccounts for their clients. 
 
 ## Features
 - Automated Web Navigation: Automatically logs into the JNL website, navigates to the necessary pages, and handles any 
@@ -25,6 +26,10 @@ structures.
 - Factor Modeling: Implements a factor model to analyze the performance of the subaccounts.
 - Portfolio Optimization: Provides a module to automate the process of creating optimal portfolios based on the parsed 
 data.
+
+## Requirements
+Users must have a valid login to the JNL website in order to use this package. Additionally, users must have Java
+installed on their machine in order to use the tika library. To install Java, visit https://www.java.com/en/download/.
 
 ## Installation
 JacksonQuery is available on PyPI and can be installed via pip:
